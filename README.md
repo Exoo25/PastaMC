@@ -14,7 +14,7 @@ Welcome to **Pasta MC**, a cracked **Lifesteal SMP** Minecraft server packed wit
 - 🌍 **Type**: Lifesteal SMP
 - 👑 **Owner**: Mehdi Ali (Exoo25)
 - ⚙️ **Manager**: Hasnain
-- 🖥️ **Hosting Panel**: PufferPanel
+- 🖥️ **Hosting Panel**: hydrapanel
 - 🌐 **IP**: `???????` *(will be updated soon)*
 
 ---
@@ -77,7 +77,7 @@ Welcome to **Pasta MC**, a cracked **Lifesteal SMP** Minecraft server packed wit
 
 - 🧠 Developed by: **Mehdi Ali**
 - 🎮 Managed by: **Hasnain**
-- 💡 Powered by: **PufferPanel**
+- 💡 Powered by: **hydrapanel**
 
 ---
 
